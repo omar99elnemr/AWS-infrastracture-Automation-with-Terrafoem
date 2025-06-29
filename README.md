@@ -1,6 +1,8 @@
 # Terraform AWS Web Server Infrastructure
 
 A simple project where I learned to deploy web servers on AWS using Terraform.
+![image](https://github.com/user-attachments/assets/d6fd79bd-0311-4a6c-ad7b-1eb4ba0868ef)
+
 
 ## What This Project Does
 
